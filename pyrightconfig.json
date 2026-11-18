@@ -1,0 +1,12 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "extraPaths": [
+    "backend"
+  ],
+  "exclude": [
+    "_legacy",
+    "frontend/node_modules",
+    ".venv"
+  ]
+}
